@@ -1,0 +1,1 @@
+newman run Test.postman_collection.json -e Test.postman_environment.json -r cli,htmlextra
